@@ -51,7 +51,7 @@ Zur gemeinsamen Bearbeitung von längeren Texten wird meist noch auf Google Docs
 oder auf Versionskontrollsysteme wie git zurückgegriffen (von der Unart, Word-
 oder PDF-Dokumente herumzumailen mal abgesehen). Ein Beispiel eines
 wissenschaftlichen Buches, das so erstellt wurde in nun auf GitHub verfügbar
-ist, ist <http://www.openingscience.org/get-the-book/>. Spätestens seit 2013
+ist, ist <http://book.openingscience.org/>. Spätestens seit 2013
 ist allerdings ein verstärktes Interesse an kollaborativen Autorensystemen zu
 beobachten. Gleich vier neue Autorenwerkzeugen wurden in diesem Jahr
 veröffentlicht:
