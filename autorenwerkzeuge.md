@@ -47,24 +47,38 @@ ermöglichte erstmals das gleichzeitige Bearbeiten in Echtzeit.
 
 ## Aktuelle Entwicklungen
 
-Zur gemeinsamen Bearbeitung von längeren Texten wird meist noch auf Google Docs
-oder auf Versionskontrollsysteme wie git zurückgegriffen (von der Unart, Word-
-oder PDF-Dokumente herumzumailen mal abgesehen). Ein Beispiel eines
-wissenschaftlichen Buches, das so erstellt wurde in nun auf GitHub verfügbar
-ist, ist <http://book.openingscience.org/>. Spätestens seit 2013
-ist allerdings ein verstärktes Interesse an kollaborativen Autorensystemen zu
-beobachten. Gleich vier neue Autorenwerkzeugen wurden in diesem Jahr
-veröffentlicht:
+Von der Unart, Word- oder PDF-Dokumente herumzumailen abgesehen, wird zur
+gemeinsamen Bearbeitung von längeren Texten wird meist noch auf Google Docs
+oder auf Versionskontrollsysteme wie git zurückgegriffen. Bei git und GitHub
+kommen ggf. zusätzliche Tools wie *[prose](https://github.com/prose/prose)*
+zum Bearbeiten und/oder *Pandoc* zum Publizieren hinzu.
+
+Beispiele für Bücher, die so erstellt wurden:
+
+* <http://book.openingscience.org/> - erstellt mit Google Docs, inzwischen
+  verfügbar auf GitHub
+* <https://github.com/HoTT/book> - direkt erstellt mit git/GitHub
+
+Spätestens seit 2013 ist ein verstärktes Interesse an kollaborativen
+Autorensystemen zu beobachten. Gleich fünf neue Autorenwerkzeugen wurden in
+diesem Jahr veröffentlicht:
 
 * [Penflip]
 * [Editorially]
 * [Draft]
 * [Fidus Writer]
+* [Authorea] (beta-phase Ende 2012, öffentlich ab Anfang März 2013)
+
+Die ebenfalls 2013 vorgestellten Projek *[Repositext]* und *[Substance]* sind
+dagegen noch nicht aus der geschlossenen beta-Phase herausgekommen.
 
 [Penflip]: https://www.penflip.com/
 [Editorially]: https://editorially.com/
 [Draft]: https://draftin.com/
 [Fidus Writer]: http://fiduswriter.org/
+[Authorea]: https://www.authorea.com/
+[Repositext]: http://repositext.org/
+[Substance]: http://substance.io/
 
 ## Vorteile
 
