@@ -101,5 +101,7 @@ Viele kleinere Teilaufgaben.
 * Wikidata
     * [Chaosradio Express 205](http://cre.fm/cre205-wikidata).
       Podcast 02:40 über Wikidata (Pflichthörtüre!)
+    * [Wikidata Authority Control](https://www.wikidata.org/wiki/User:JakobVoss/Authority_control)
+      (meine derzeitige Linksammlung)
 * Projektmanagement
     * ...
