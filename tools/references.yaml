@@ -1,0 +1,31 @@
+---
+Lindstrom2011:
+    author: Jim Lindstrom
+    title: "Design Studios: The Good, the Bad, and the Science"        
+    url: http://www.uxbooth.com/articles/design-studios-the-good-the-bad-and-the-science/
+    date: 2011-11-15
+Ungar2008:
+    type: inproceedings
+    author: ['Jim Ungar','Jeff White']
+    title: "Agile user centered design: enter the design studio - a case study"
+    date: 2008
+    pages: 2167-2178
+    doi: 10.1145/1358628.1358650
+    booktitle: "CHI '08 Extended Abstracts on Human Factors in Computing Systems"
+    publisher: ACM
+    isbn: 978-1-60558-012-8
+Hill1982:
+    type: article
+    author: Gayle W. Hill
+    title: "Group Versus Individual Performance: Are N + 1 Heads Better Than One?"
+    date: 1982
+    journal: Psychological Bulletin
+    volume: 91
+    number: 3
+    pages: 517-539
+Abot2014:
+    title: "How to Run a Design Studio in 90 Minutes or Less"
+    author: Al Abut
+    journal: Zapier
+    date: 2014-02-14
+    url: https://zapier.com/blog/run-a-design-studio/
