@@ -1,4 +1,4 @@
-# PM-Method: Design-Studio
+# PM-Methode: Design-Studio
 
 Die *Design-Studio*-Methode stammt aus dem Bereich der *User Experience* (UX)
 [@Ungar2008] und wird vor allem zur Gestaltung von Benutzerschnittstellen
