@@ -6,3 +6,13 @@ von Jakob Voß. Sofern nicht weiter angegeben können alle Inhalte unter den
 Lizenbedingungen der [CC-BY-SA](http://creativecommons.org/licenses/by-sa/3.0/)
 verwendet werden.  Die aktuelle Version des Repository steht unter
 <https://github.com/jakobib/hshwd2014/>.
+
+Neben diesem GitHub-Repository werden unter Anderem folgende Webanwendungen als
+Werkzeuge verwendet. Die verlinkten Accounts sind u.U. nur für die Mitglieder
+sichtbar:
+
+* <https://trello.com/hshwd2014> - Trello fürs Projektmanagement
+* <https://www.penflip.com/nichtich/hshwd2014> - Penflip zum Schreiben
+* Wikidata
+* Etherpad
+* ...
