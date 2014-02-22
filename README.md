@@ -10,3 +10,13 @@ verwendet werden.  Die aktuelle Version des Repository steht unter
 Die Präsenzzeit des Projekts ist jeweils Dienstags von 8 bis 14 Uhr in Raum
 2.34 (PC-Raum 10 PCs und 16 Plätze) im Kurt Schwitters Forum (Expo-Plaza 12,
 Hannover).
+
+Neben diesem GitHub-Repository werden unter Anderem folgende Webanwendungen als
+Werkzeuge verwendet. Die verlinkten Accounts sind u.U. nur für die Mitglieder
+sichtbar:
+
+* <https://trello.com/hshwd2014> - Trello fürs Projektmanagement
+* <https://www.penflip.com/nichtich/hshwd2014> - Penflip zum Schreiben
+* Wikidata
+* Etherpad
+* ...
