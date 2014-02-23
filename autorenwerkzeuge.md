@@ -166,3 +166,6 @@ einige Quellen:
 * *[History of Google Docs](http://en.wikipedia.org/wiki/History_of_Google_Docs)*.
   In: Englischsprachige Wikipedia.
 * ...
+
+Unter <https://github.com/jakobib/gittige-tools> ist übrigens ein gemeinsamer 
+Artikel zu kollaborativen Schreibwerkzeugen in Arbeit.
