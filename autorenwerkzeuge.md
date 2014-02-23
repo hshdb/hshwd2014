@@ -68,6 +68,8 @@ diesem Jahr veröffentlicht:
 * [Draft]
 * [Fidus Writer]
 * [Authorea] (beta-phase Ende 2012, öffentlich ab Anfang März 2013)
+* [Typewrite]
+* [StackEdit] (?)
 
 Die ebenfalls 2013 vorgestellten Projek *[Repositext]* und *[Substance]* sind
 dagegen noch nicht aus der geschlossenen beta-Phase herausgekommen.
@@ -79,6 +81,8 @@ dagegen noch nicht aus der geschlossenen beta-Phase herausgekommen.
 [Authorea]: https://www.authorea.com/
 [Repositext]: http://repositext.org/
 [Substance]: http://substance.io/
+[Typewrite]: http://typewrite.io/
+[StackEdit]: https://stackedit.io/
 
 ## Vorteile
 
@@ -162,3 +166,6 @@ einige Quellen:
 * *[History of Google Docs](http://en.wikipedia.org/wiki/History_of_Google_Docs)*.
   In: Englischsprachige Wikipedia.
 * ...
+
+Unter <https://github.com/jakobib/gittige-tools> ist übrigens ein gemeinsamer 
+Artikel zu kollaborativen Schreibwerkzeugen in Arbeit.
