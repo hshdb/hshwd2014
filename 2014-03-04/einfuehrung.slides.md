@@ -29,6 +29,18 @@
 * Erfahrungen
 * Bewertungen
 
+# Noch mehr Projektvorstellung (Ruhm & Ehre)
+
+* [Open-Access-Tage 2014](http://open-access.net/de/aktivitaeten/open_access_tage/),
+  8./9. September an der FH Köln. CfP bis 31.3, ggf. später für Kurzvorträge & Poster
+
+* OER-Konferenz 2014 (ggf. im Herbst in Berlin?)
+
+* Irgendwelche Wikimedia/Wikidata-Veranstaltungen 2014
+  (vgl. z.B. [Wikidata trifft Archäologie 2013](https://de.wikipedia.org/wiki/Wikipedia:Wikidata_trifft_Arch%C3%A4ologie_2013))
+
+* ...
+
 # Termine und Zeitem
 
 * Wir haben 15 Wochen (Projektvorstellung am 17.6.)
