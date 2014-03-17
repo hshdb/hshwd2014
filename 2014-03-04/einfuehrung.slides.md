@@ -115,5 +115,3 @@ Viele kleinere Teilaufgaben.
       Podcast 02:40 über Wikidata (Pflichthörtüre!)
     * [Wikidata Authority Control](https://www.wikidata.org/wiki/User:JakobVoss/Authority_control)
       (meine derzeitige Linksammlung)
-* Projektmanagement
-    * ...
